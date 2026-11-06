@@ -14,6 +14,9 @@
 ## Guides
 - [Dumpster rental Cape Coral: a homeowner’s guide](https://local-business-guides.github.io/adapt-dumpster-rentals-cape-coral/dumpster-rental-cape-coral/): Plan your cleanup with dumpster rental Cape Coral service from ADAPT Dumpster Rentals Cape Coral. Call today to discuss your Cape Coral project.
 
+## Newsroom
+- [ADAPT Dumpster Rentals Cape Coral Publishes Dumpster Rental Guide](https://local-business-guides.github.io/adapt-dumpster-rentals-cape-coral/news/2026-11-06-adapt-dumpster-rentals-cape-coral-publishes/): ADAPT Dumpster Rentals Cape Coral published a guide to dumpster rental Cape Coral, a podcast episode and a SoundCloud audio version this week. (2026-11-06)
+
 ## Pages
 - [Dumpster Rental in Cape Coral, Florida](https://local-business-guides.github.io/adapt-dumpster-rentals-cape-coral/): Plan a cleaner project site with dumpster rental in Cape Coral, with a local point of contact for your rental questions. Call +1239-946-4576.
 - [About and Contact ADAPT Dumpster Rentals](https://local-business-guides.github.io/adapt-dumpster-rentals-cape-coral/about/): About ADAPT Dumpster Rentals Cape Coral, Cape Coral.
@@ -21,4 +24,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/adapt-dumpster-rentals-cape-coral/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/adapt-dumpster-rentals-cape-coral/news/rss.xml)
 - [Main resource site](https://adapt-dumpster-cape-coral.localbusinesses1.chatgpt.site)
